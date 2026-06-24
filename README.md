@@ -150,5 +150,3 @@ POST /api/attendance/mark
 
 ## Author
 Srivarshine Thoppe 
-
-Final Year BE Computer Engineering
